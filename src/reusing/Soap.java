@@ -1,2 +1,5 @@
-package reusing;public class Soap {
+package reusing;
+
+public class Soap {
+
 }
